@@ -9,7 +9,7 @@ change directory
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-make directory
+
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?

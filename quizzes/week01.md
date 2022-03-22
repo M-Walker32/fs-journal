@@ -15,7 +15,7 @@ make directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+It tells the webpage what language the document is written in. 
 ```
 
 **4.** What does `HTML` stand for?
@@ -52,19 +52,19 @@ value: rgba{255, 210, 33, .75}
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+the <body>
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul> <ol>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property makes you page more flexible. It allows you to move elements on a page more freely. 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?

@@ -21,13 +21,13 @@ make directory
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+hyper text markup language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+cascading style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,7 +38,9 @@ make directory
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector: h1.main-title
+property: color
+value: rgba{255, 210, 33, .75}
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?

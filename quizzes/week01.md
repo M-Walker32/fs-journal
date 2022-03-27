@@ -46,29 +46,32 @@ value: rgba{255, 210, 33, .75}
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+font-weight:
+<b> tag
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-the <body>
+the <body> conatins all visible elements
+the <main> tag contains the majority
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-<ul> <ol>
+<ul> <ol> <dl>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-The flex property makes you page more flexible. It allows you to move elements on a page more freely. 
+The flex property makes you page more flexible. It allows you to move elements on a page more freely. It puts all elments into a container that you cna flexible move around the page.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+margin and padding around the box
+within the box width and height
 ```

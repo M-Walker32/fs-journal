@@ -3,17 +3,22 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
+var, let, const
 
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A function is a group of code designed to perfom a specific task, that has to be invoked. 
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+S - Single Responsibility a class should be having one and only one responsibility
+O - Open / Closed classes should be open for extension but closed for modification
+L - Liskov Substitution parent classes should be easily substituted with their child classes without blowing up the application
+I - Interface Segregation many client specific interfaces are better than one general interface
+D - Dependency Inversion classes should depend on abstraction but not on concretion
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +27,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+2
 ```
 **5.** With these two objects: 
 ```js

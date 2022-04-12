@@ -69,8 +69,5 @@ To bundle data/methods together and store it privately from other methods.
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
-
-
-
+Internal Server error
 ```

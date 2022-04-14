@@ -5,7 +5,6 @@
 ```
 Asynchronous means it happens in the future or not now.
 Synchronous means the code is executed now.
-
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
@@ -15,7 +14,7 @@ It's a method used to 'listen' for an event. When the event happens the method a
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-Open classes are availble for extension, closed classes are closed to motification
+Open classes are available for extension, closed classes are closed to motification
 
 ```
 **4.** What is a callback / higher order function?
@@ -27,18 +26,11 @@ A callback function is a function that is passed as an argument, and called in a
 <!-- enter you answer in the space below -->
 ```
 Promises make it appear that your code is running top to botttom. It uses try/ catch to find errors and run code.
-
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
-
-
-
-
-
-
+line, header, body
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
@@ -48,10 +40,7 @@ It stands for Application Programming Interaface.
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
-
-
-
+The service!
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
@@ -61,10 +50,7 @@ To bundle data/methods together and store it privately from other methods.
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
-
-
-
+200 response
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
